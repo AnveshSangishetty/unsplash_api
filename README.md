@@ -1,10 +1,12 @@
 # unsplashh_api
 
-A new Flutter project.
+A Flutter project.
+This application retrieves images from Unsplash (a stock photography site)
 
-## Getting Started
+Frontend - Flutter
 
-This project is a starting point for a Flutter application.
+-> Implemented search algorithm using apis
+-> Implemented infinite scrolling
 
 A few resources to get you started if this is your first Flutter project:
 
